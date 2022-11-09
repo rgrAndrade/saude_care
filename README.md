@@ -1,6 +1,4 @@
-![saúde_care_logo](https://user-images.githubusercontent.com/104234513/200601589-b3b8f9dd-8bc8-477f-8ef9-bbf9be610c90.png)
-
-
+![logo_CortaDa](https://user-images.githubusercontent.com/104234513/200856019-f6f4cc94-cee7-4c18-bbce-e9cdf07e602d.png)
 
 # Saúde Care
 
